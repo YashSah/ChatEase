@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799097982109",
+    "project_id": "chatease-7d87e",
+    "storage_bucket": "chatease-7d87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799097982109:android:4c73a59c143d7adcf99874",
+        "android_client_info": {
+          "package_name": "com.example.chatease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdev1-3vVGeyLhdETmCboUF4y1Mlb4Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
